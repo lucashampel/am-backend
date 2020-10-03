@@ -54,4 +54,4 @@ const server = http.createServer(app);
 server.listen(port);
 server.on('error', onError);
 server.on('listening', onListening);
-console.log(`API is alive on ${port}!`);
+console.log(`ta rodando na porta : ${port}!`);

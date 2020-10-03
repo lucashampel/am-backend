@@ -1,0 +1,8 @@
+{
+    "nome":"jonny",
+    "idade":"89",
+    "sobre":"Eu sou o João, tenho 75 anos, tenho dois netos, um garoto de 10 anos e uma menina de 5. Os dois são o maior brilho da minha vida. Eu passo mais tempo com eles do que com meu filho, ele está sempre muito ocupado trabalhando e não tem tempo pra mim. Trabalhei desde criança na oficina do meu pai e fiquei lá até me aposentar. Eu vendi a oficina para fazer uma poupança para meus netos. Aqui no asilo não podemos fazer muito e eu já não tenho tanta saúde quanto antigamente. Não consigo jogar futebol, mas não perco um jogo do Corinthians. Meu sonho é poder ir a um jogo no Itaquerão algum dia.",
+    "interesses":[{"interesse":"carros"},{"interesse":"filmes"}, {"interesse":"viagens"}],
+    "email":"leozera@mandapack.pezinho",
+    "senha":"perdendoOsLados"
+}

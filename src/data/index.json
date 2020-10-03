@@ -1,0 +1,13 @@
+{
+
+    "asilos": [{"img-path":"./azilo/1", "nome":"casa do bem", "distancia":"5km"},
+                {"img-path":"./azilo/1", "nome":"casa do bem", "distancia":"5km"}, 
+                {"img-path":"./azilo/1", "nome":"casa do bem", "distancia":"5km"}],
+                
+    "mapa-conexoes":[{"nome":"casa do vem", "lat":"1231313", "long":"123123"},
+                        {"nome":"casa do vem", "lat":"1231313", "long":"123123"}],
+
+    "mapa-conectar":[{"nome":"casa do vem", "lat":"1231313", "long":"123123"},
+                    {"nome":"casa do vem", "lat":"1231313", "long":"123123"},
+                    {"nome":"casa do vem", "lat":"1231313", "long":"123123"}]
+}
